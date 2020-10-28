@@ -1,0 +1,23 @@
+{
+  "name": "@experimentallife/connect",
+  "version": "1.0.0",
+  "description": "Connect module",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Experimental Life",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExperimentalLife/connect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ExperimentalLife/connect/issues"
+  },
+  "homepage": "https://github.com/ExperimentalLife/connect#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
